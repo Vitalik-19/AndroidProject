@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="lockChecked1">#FFE600</color>
+    <color name="lockChecked2">#BE8800</color>
+    <color name="lockCheckedShape">#FF8400</color>
+    <color name="lockUnchecked1">#00AEFF</color>
+    <color name="lockUnchecked2">#0065BE</color>
+    <color name="lockUncheckedShape">#0E4FD1</color>
+    <color name="FieldSetting">#00AEFF</color>
+    <color name="backgroundColorActivity">#A5CFA6</color>
+
+</resources>
